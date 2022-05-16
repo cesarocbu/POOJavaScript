@@ -8,8 +8,6 @@ class Course {
     }
 }
 
-
-
 const cursoProgBasica = new Course({
     name: "Curso gratis de programación básica",
 });
@@ -59,10 +57,6 @@ const escuelaVgs = new LearningPaths({
         "Curso de Unreal Engine"
     ],
 });
-
-
-
-
 
 
 class Student {
